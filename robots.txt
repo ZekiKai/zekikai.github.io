@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://zekikai.github.io/kai-zhang/sitemap.xml
+Sitemap: https://ZekiKai.github.io/sitemap.xml
