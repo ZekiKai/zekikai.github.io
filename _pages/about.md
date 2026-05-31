@@ -9,7 +9,7 @@ profile:
   image: formal.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>zk386698@outlook.com your email</p>
+    <p>Email: <a href="mailto:zk386698@outlook.com">zk386698@outlook.com</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -25,6 +25,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a third year undergraduate student at the University of Science and Technology Beijing. 
+I am a third-year undergraduate student at the University of Science and Technology Beijing. 
 
-My research targets real-world robotic applications. I'm now working on perception of robotics, e.g. visual-inertial odometry. I'm also insterested on VLN, Spatial Intelligent and Mobile Manipulation.
+My research targets real-world robotic applications. I'm now working on robotic perception, such as visual-inertial odometry. I'm also interested in Vision-Language-Navigation (VLN), spatial intelligence, and mobile manipulation.
